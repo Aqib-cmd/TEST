@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Tests>
+  <Tests>
+    <Test>
+      <HVAC>
+        <NUM>1</NUM>
+        <ROOM>power</ROOM>
+        <COMPRESSOR>True</COMPRESSOR>
+        <HEATER>False</HEATER>
+        <FAN>True</FAN>
+      </HVAC>
+      <HVAC>
+        <NUM>2</NUM>
+        <ROOM>power</ROOM>
+        <COMPRESSOR>True</COMPRESSOR>
+        <HEATER>False</HEATER>
+        <FAN>True</FAN>
+      </HVAC>
+      <HVAC>
+        <NUM>3</NUM>
+        <ROOM>power</ROOM>
+        <COMPRESSOR>True</COMPRESSOR>
+        <HEATER>False</HEATER>
+        <FAN>True</FAN>
+      </HVAC>
+    </Test>
+  </Tests>
+</Tests>

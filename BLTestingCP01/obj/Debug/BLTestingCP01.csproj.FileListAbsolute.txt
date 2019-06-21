@@ -1,0 +1,24 @@
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\BLTestingCP01.dll
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\BLTestingCP01.pdb
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\nunit.framework.dll
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.dll
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.Support.dll
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\nunit.framework.pdb
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\nunit.framework.xml
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.xml
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.Support.xml
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\obj\Debug\BLTestingCP01.dll
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\obj\Debug\BLTestingCP01.pdb
+C:\Users\Nazim\documents\visual studio 2015\Projects\TestingCP01\BLTestingCP01\obj\Debug\BLTestingCP01.csprojResolveAssemblyReference.cache
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\BLTestingCP01.dll
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\BLTestingCP01.pdb
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\nunit.framework.dll
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.dll
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.Support.dll
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\nunit.framework.pdb
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\nunit.framework.xml
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.xml
+E:\XML Project\Again\TestingCP01\BLTestingCP01\bin\Debug\WebDriver.Support.xml
+E:\XML Project\Again\TestingCP01\BLTestingCP01\obj\Debug\BLTestingCP01.dll
+E:\XML Project\Again\TestingCP01\BLTestingCP01\obj\Debug\BLTestingCP01.pdb
+E:\XML Project\Again\TestingCP01\BLTestingCP01\obj\Debug\BLTestingCP01.csprojResolveAssemblyReference.cache
